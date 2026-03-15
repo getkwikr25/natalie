@@ -95,7 +95,7 @@ const Home: React.FC = () => {
                   <iframe
                     width="100%"
                     height="100%"
-                    src={`https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ?autoplay=1&origin=${videoOrigin}&enablejsapi=1`}
+                    src={`https://www.youtube-nocookie.com/embed/T84BcmRUnOY?autoplay=1&origin=${videoOrigin}&enablejsapi=1`}
                     title="Introduction Video"
                     frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
